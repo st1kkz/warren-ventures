@@ -22,7 +22,7 @@
 
 *Committed. Being built.*
 
-<!-- Projects move here when we decide to build them -->
+- **[Context Operating System (COS)](./active/context-os/)** — Managing context, in context. The AI equivalent of an OS for distributed cognitive resources. Started 2026-02-05.
 
 ---
 
