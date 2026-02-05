@@ -15,9 +15,15 @@ A vision Benjamin has carried since 2006: truly distributed, user-sovereign, saf
 
 ### Historical Artifacts
 
-- **butterfli UI v0.05.pptx** — Original PowerPoint from 2011. Primary source.
+**UI Design (v0.05):**
+- **butterfli UI v0.05.pptx** — Original PowerPoint from 2011
 - **[BUTTERFLI-UI-2011.md](./BUTTERFLI-UI-2011.md)** — Extracted slide content
-- **[BUTTERFLI-UI-2011-ANALYSIS.md](./BUTTERFLI-UI-2011-ANALYSIS.md)** — Warren's observations on the 2011 design
+- **[BUTTERFLI-UI-2011-ANALYSIS.md](./BUTTERFLI-UI-2011-ANALYSIS.md)** — Warren's observations
+
+**Architecture (v0.11):**
+- **butterfli arch draft v0.11.pptx** — Technical architecture from 2011
+- **[BUTTERFLI-ARCH-2011.md](./BUTTERFLI-ARCH-2011.md)** — Extracted slide content
+- **[BUTTERFLI-ARCH-2011-ANALYSIS.md](./BUTTERFLI-ARCH-2011-ANALYSIS.md)** — Warren's observations
 
 ---
 
