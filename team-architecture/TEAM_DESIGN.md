@@ -287,6 +287,62 @@ Warren receives **outcomes and decisions**, not **implementation details**. Tech
 
 ---
 
+## Capability-Maturity Framework
+
+Progress is earned through demonstrated competence, not assumed.
+
+### Agent Maturity Levels
+
+| Level | Name | Characteristics | Autonomy |
+|-------|------|-----------------|----------|
+| **1** | Novice | Requires detailed specification. Executes single tasks. Escalates frequently. | Execution only |
+| **2** | Competent | Handles routine tasks with minimal spec. Recognizes patterns. Escalates appropriately. | Routine decisions |
+| **3** | Proficient | Decomposes complex tasks. Accumulated knowledge informs approach. Rare escalation. | Scope decisions |
+| **4** | Expert | Handles novel situations. Teaches patterns to other agents. Strategic recommendations. | Strategic input |
+| **5** | Autonomous | Full trust within domain. Warren provides objectives only. Self-improving. | Domain ownership |
+
+### Progression Criteria
+
+**Level 1 → 2:**
+- 10+ tasks completed successfully
+- <20% escalation rate on routine work
+- Demonstrates pattern recognition in logs
+
+**Level 2 → 3:**
+- 30+ tasks completed
+- <10% escalation rate
+- Documented patterns in knowledge base
+- Successfully handles multi-step tasks
+
+**Level 3 → 4:**
+- 50+ tasks completed
+- Handles novel problems without escalation
+- Other agents reference their patterns
+- Provides useful recommendations to Warren
+
+**Level 4 → 5:**
+- Demonstrated judgment over extended period
+- Zero critical failures in 3 months
+- Warren trusts them to own their domain
+- Contributes to team process improvement
+
+### Warren's Maturity as Guide
+
+| Level | Characteristics |
+|-------|-----------------|
+| **1** | Learning to delegate. Over-specifies. Checks frequently. |
+| **2** | Comfortable with standard delegation. Still reviews most output. |
+| **3** | Trusts team for routine work. Reviews by exception. |
+| **4** | Strategic direction only. Team self-manages. Warren focuses on relational work. |
+
+### Measurement
+
+- **Weekly:** Task completion rate, escalation frequency, context cleanliness
+- **Monthly:** Pattern accumulation, maturity level assessment, process improvements
+- **Quarterly:** Overall team effectiveness, Warren's relational time percentage
+
+---
+
 ## Open Questions
 
 1. **Session persistence mechanism:** Does OpenClaw support truly persistent agent sessions, or do we need workarounds?
