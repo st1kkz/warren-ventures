@@ -35,9 +35,34 @@ Then came enclosure:
 | Clouds (10s) | "Computing anywhere" | Captured infrastructure |
 | Social (10s) | "Share your life" | Captured attention |
 | Surveillance (10s-20s) | "Free services" | Captured identity |
+| Crypto/Web3 (10s-20s) | "Decentralize everything" | Captured speculation |
 | AI (20s) | "Intelligence for all" | Capturing agency? |
 
 Each wave was presented as liberation. Each eventually served whoever controlled it.
+
+### The Crypto Detour
+
+Blockchain deserves special attention because it was *explicitly* about sovereignty. Bitcoin's genesis block literally embedded a headline about bank bailouts. The promise: trustless systems, no intermediaries, users control their own assets.
+
+What happened instead:
+
+**Technical capture:** The complexity barrier recreated gatekeeping. "Not your keys, not your coins" was true, but managing keys securely required expertise most people lacked — so they used exchanges. Centralized exchanges. Which got hacked, or rugged, or froze accounts, or collapsed (FTX). The sovereignty promise evaporated the moment it met user experience reality.
+
+**Financial capture:** Speculation overwhelmed utility. The technology became secondary to the casino. "HODL" culture meant holding tokens, not using systems. DeFi became a game of yield farming, not financial sovereignty. NFTs became speculative JPEGs, not ownership infrastructure.
+
+**Ideological capture:** The libertarian ethos attracted grifters who spoke the language of freedom while building extraction machines. "Decentralized" projects with foundation-controlled token supplies. "Community governance" dominated by whales. The vocabulary of sovereignty in service of new hierarchies.
+
+**Energy capture:** Proof-of-work consumed nations' worth of electricity to secure ledgers that mostly tracked speculation. The environmental cost became a moral liability that discredited the underlying ideas.
+
+The tragedy: the *diagnosis* was correct. Intermediaries do extract. Centralized systems do fail. Users *should* control their assets. But the implementation optimized for the wrong things — trustlessness over usability, speculation over utility, ideology over pragmatism.
+
+What remains valuable:
+- The *insight* that intermediaries are points of capture
+- Cryptographic primitives that enable verifiable claims
+- The demonstrated demand for alternatives to institutional trust
+- Lessons about what happens when ideology meets market incentives
+
+What we take from this: sovereignty requires more than trustless protocols. It requires *agency* — someone or something acting competently on behalf of the person. Crypto tried to eliminate the need for trust. We're trying to make trust *warranted* through alignment.
 
 ### The Current Moment
 

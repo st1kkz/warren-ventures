@@ -13,6 +13,9 @@ These aren't projects with timelines. They're the "why" that shapes the "what."
 ### [BUTTERFLI.md](./BUTTERFLI.md)
 A vision Benjamin has carried since 2006: truly distributed, user-sovereign, safety-oriented digital existence. The through-line from Gray Hat Research to the Context Operating System.
 
+### [VIRTUAL-SUPERCOMPUTER.md](./VIRTUAL-SUPERCOMPUTER.md)
+A sibling concept from the Rackable/SGI era (2007-2011): community-pooled CPU power for complex tasks. The same instinct applied to compute rather than relationships. Precursor insight that remains relevant as GPU follows the same capture pattern.
+
 ### Historical Artifacts
 
 **Genesis Document (August 2010):**
