@@ -36,6 +36,8 @@ Everything is an agent. Not just services — but programs, datagrams, circuits,
 - **Protectors** — ensuring safety and sovereignty
 - **Teachers** — facilitating growth and qualification for deeper association
 - **Judiciary** — adjudicating readiness and resolving disputes with wisdom
+- **Service Agents** — serve functions, not persons; computational back-ends, corpus access, data processing; respond to requests routed through messengers without loyalty to any individual
+- **Channel Controllers** — manage low-latency and/or streaming data session custody; maintain persistent channels for real-time interaction
 
 ---
 
