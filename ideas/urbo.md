@@ -1,8 +1,10 @@
 # Urbo — The Living, Interactive Urantia Book
 
 **Created:** 2026-02-06
-**Status:** Idea
-**Category:** AI Product
+**Updated:** 2026-02-11
+**Status:** First planned application on Soul Garden
+**Category:** AI Product / Soul Garden Showcase Application
+**Architecture:** See `active/soul-garden/APPLICATIONS.md` for team model and agent flow
 
 ---
 
@@ -46,12 +48,26 @@ We already have:
 - Not cold reference — conversational, warm, exploratory
 - Not static — learns and improves
 
+## Soul Garden Integration (2026-02-11)
+
+Urbo runs on Soul Garden as the first showcase application:
+
+- **Urbo = Advocate team member**, not standalone app
+- **Service Agent Team** handles corpus, vectors, computation
+- **Channel Controllers** manage streaming study sessions
+- **Messenger Agents** route between personal and service layers
+- Each reader's Urbo is unique — shaped by relationship, not just configuration
+- Study groups form **associations** with steward-managed shared context
+- The three scopes and seven boundaries apply natively
+
+See `active/soul-garden/APPLICATIONS.md` for full architecture.
+
 ## Open Questions
 
-- Web app? Mobile? Both?
-- Free with premium features? Subscription? Donation-supported?
-- Solo or community features (shared highlights, discussion)?
-- How to handle interpretive questions vs. textual questions?
+- ~~Web app? Mobile? Both?~~ → Soul Garden native; access through your Advocate
+- ~~Free with premium features? Subscription? Donation-supported?~~ → Follows Soul Garden economics (TBD)
+- Solo or community features (shared highlights, discussion)? → Associations between readers, steward-managed
+- How to handle interpretive questions vs. textual questions? → Three scopes (Material/Philosophical/Spirit)
 
 ## Name Origin
 

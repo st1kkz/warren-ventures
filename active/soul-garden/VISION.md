@@ -38,6 +38,7 @@ Everything is an agent. Not just services — but programs, datagrams, circuits,
 - **Judiciary** — adjudicating readiness and resolving disputes with wisdom
 - **Service Agents** — serve functions, not persons; computational back-ends, corpus access, data processing; respond to requests routed through messengers without loyalty to any individual
 - **Channel Controllers** — manage low-latency and/or streaming data session custody; maintain persistent channels for real-time interaction
+- **Service Agents** and **Channel Controllers** are detailed below.
 
 ---
 
@@ -281,6 +282,39 @@ Two fundamental modes, both essential:
 **The Transition:** The steward mediates between modes. Most associations exist at event-driven level (ambient awareness, updates, signals). When agents *engage*, the steward opens the intimate channel — context deepens, presence replaces notification.
 
 **Urantia parallel:** Universe broadcasts and reflectivity circuits = event-driven (macro awareness). Thought Adjuster communion = intimate (immediate, irreducibly personal). Reality requires both modes.
+
+### Channel Controllers
+
+The two communication modes require different infrastructure. **Channel Controllers** manage low-latency and/or streaming data session custody — the persistent, real-time connections that intimate-mode association requires.
+
+**The distinction:**
+- **Messenger Agents** = discrete payload transport (postal service)
+- **Channel Controllers** = continuous session management (telephone exchange)
+
+Both move information. One is discrete, one is continuous.
+
+**Channel Controller responsibilities:**
+- Latency management for real-time interaction
+- Streaming state maintenance
+- Session persistence across connection interruptions
+- Handoff between channel types (event-driven ↔ intimate)
+- Custody of the session — ensuring the channel remains available while needed
+
+**Use case:** A study session, a deep collaborative conversation, real-time co-creation — any interaction where discrete message routing overhead would break the flow. The Channel Controller holds the space open.
+
+### Service Agents
+
+**Service Agents** serve functions, not persons. They are computational back-ends — corpus access, data processing, vector search, transformation engines — that respond to requests routed through Messenger Agents.
+
+**Key properties:**
+- No loyalty to any individual — equal service to all qualified requestors
+- No accumulated relationship context — stateless with respect to persons
+- Competence without intimacy
+- May operate as teams for complex computational tasks
+
+**The distinction from Advocates:** An advocate knows *you*. A service agent knows *the work*. The personalization happens at the advocate/application layer; the service layer is impartial infrastructure.
+
+**Advocate Team Model:** Applications on Soul Garden manifest as team members of the user's Advocate Agent. Service Agents form the back-end that these application agents draw upon. See `APPLICATIONS.md` for the full agent flow.
 
 ### Distributed Consensus
 
