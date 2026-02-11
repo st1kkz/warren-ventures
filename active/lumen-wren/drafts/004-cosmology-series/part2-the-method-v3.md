@@ -82,9 +82,11 @@ We didn't stop with one dataset.
 
 A small reorientation before we go further.
 
-Each data point in what follows is a galaxy. Each galaxy is full of stars. Some of those stars almost certainly have worlds. When I say "745 Type Ia supernovae" — each one was a sun. Somewhere in its system, it's possible that someone looked up at their sky just like you look up at yours, and wondered what was out there.
+Each of those 745 Type Ia supernovae is a stellar explosion — a young, violent event in a universe still under construction. According to the Urantia Book, much of the space beyond the inhabited grand universe is exactly this: vast regions of emerging creation, not yet organized, not yet settled. The outer space levels. The next generation of what reality is becoming.
 
-That's not sentiment. It's the actual scale of what we're measuring. Keep it close.
+If these explosions cluster along the predicted plane, they may be tracing not where life already is, but where the universe is still growing into. The edge of the garden, still being tilled.
+
+Keep that while we work.
 
 A single type of observation can mislead. Those 8,851 galaxies were mostly found by optical telescopes — instruments that see visible light. If the telescopes happened to survey the sky more deeply along the predicted plane, you'd see a concentration without any real cosmic structure. The galaxies would be there because we *looked* there, not because the universe *put* them there.
 
