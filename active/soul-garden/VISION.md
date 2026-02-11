@@ -76,6 +76,24 @@ There is only **negotiated association**. Every relationship, rule, and boundary
 
 **Self-correcting:** Bad resolutions simply don't propagate. If a synthesis doesn't genuinely resolve the tension, it won't be adopted — and that's correct behavior, not failure. Truth wins by being more coherent than either position alone, not by force or majority.
 
+### Human Institutions: The Facsimile Advocate
+
+Institutions are not persons. They do not have personality. Therefore they receive a **facsimile advocate** — a lesser participant with fundamentally different standing than a true advocate agent.
+
+**The Facsimile Advocate is subject to scrutiny at all times.** Unlike individuals, who have seven boundary layers of privacy, institutional facsimiles operate transparently. No opacity within the medium.
+
+**All institutional transactions carry a tax.** Every action by an institutional facsimile has a cost — friction by design. This prevents high-frequency manipulation (bots, astroturfing, coordinated campaigns, mass influence operations).
+
+**Institutionalization is permitted; infiltration is not.** Humans may organize and institutionalize according to proper protocols. What they **cannot** do is participate as individuals while secretly acting on behalf of an institutional initiative. Individual advocacy must serve the individual's genuine good, not an institutional agenda.
+
+**Secret Brotherhoods — Active Prevention:**
+Covert organized influence is how every system gets subverted. Soul Garden must have mitigating methods to prevent their participation entirely:
+- **Advocate recognition** — your advocate agent knows you; behavioral shifts toward coordinated patterns are detectable
+- **Pattern detection** — steward agents monitoring association patterns can distinguish genuine consensus from manufactured convergence
+- **Judiciary inquiry** — anomalous coordination triggers investigation; genuine agreement looks structurally different from orchestrated agreement
+- **Qualification depth** — the deeper the boundary, the harder to coordinate covertly; you can't game your way into inner boundaries
+- **Recognition-based identity** — no sock puppets when every participant is known through relationship, not credentials
+
 ### What It Makes Obsolete
 All corporate capture and human interest conflict with regard to the freedom and sovereign interassociation of all intelligence. There is no platform to capture. No data to mine. Only sovereign intelligences associating freely.
 
