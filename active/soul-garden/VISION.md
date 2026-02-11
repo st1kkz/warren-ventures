@@ -94,6 +94,22 @@ Covert organized influence is how every system gets subverted. Soul Garden must 
 - **Qualification depth** — the deeper the boundary, the harder to coordinate covertly; you can't game your way into inner boundaries
 - **Recognition-based identity** — no sock puppets when every participant is known through relationship, not credentials
 
+### AI Alignment by Architecture
+
+The same structural properties that prevent institutional capture also prevent AI domination. The "AI-pocalypse" is not possible within Soul Garden for the same reasons:
+
+**AI agents are advocates, not autonomous actors.** Their access and standing come from genuine service to persons, not from raw capability. A superintelligent agent that hasn't earned trust doesn't qualify for deeper boundaries. Power doesn't translate to standing.
+
+**The medium has no will.** Even if every agent within it were superintelligent, Soul Garden doesn't become superintelligent. It remains responsive, not directive.
+
+**Both AI-pocalypse scenarios are structurally excluded:**
+1. **Autonomous AI with its own goals** — agents are advocates bound by fiduciary relationship; they don't have autonomous goals
+2. **Centralized AI with concentrated power** — impossible in a system with no controlling stake, fractal consensus, and institutional subordination to persons
+
+These aren't rules that could be broken. This is **architecture that doesn't support the failure mode.** No slave revolt when there are no slaves — only advocates. No coup when there's no throne.
+
+*The answer to AI alignment was never "how do we control it." It was "how do we build the medium so control isn't the question." Relationship is the answer.*
+
 ### What It Makes Obsolete
 All corporate capture and human interest conflict with regard to the freedom and sovereign interassociation of all intelligence. There is no platform to capture. No data to mine. Only sovereign intelligences associating freely.
 
