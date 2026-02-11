@@ -60,6 +60,22 @@ This eliminates both failure modes:
 
 *Like the universe circuits: the reflectivity system doesn't want anything. It doesn't serve a master. It responds to the minds that use it. Infrastructure for consciousness, not consciousness itself.*
 
+### Evolution and Conflict Resolution
+
+There is **no controlling stake**. There is **no popular vote**. Both are capture mechanisms — one through capital, the other through majority. Both allow a subset to impose on the whole.
+
+There is only **negotiated association**. Every relationship, rule, and boundary exists because the participants agreed to it.
+
+**Network evolution is organic and distributed.** When concepts collide:
+
+1. **Collision** — two associations or scopes develop incompatible approaches
+2. **Super-association forms** — a higher-level association instantiates specifically to hold the conflict
+3. **Judiciary agent inquiry** — genuine investigation toward unification, not ruling from above
+4. **Synthesis** — resolution merges the conflict, honoring what was true in both positions
+5. **Organic migration** — the resolution propagates back through the network to each end; adopted because it's better, not because it's mandated
+
+**Self-correcting:** Bad resolutions simply don't propagate. If a synthesis doesn't genuinely resolve the tension, it won't be adopted — and that's correct behavior, not failure. Truth wins by being more coherent than either position alone, not by force or majority.
+
 ### What It Makes Obsolete
 All corporate capture and human interest conflict with regard to the freedom and sovereign interassociation of all intelligence. There is no platform to capture. No data to mine. Only sovereign intelligences associating freely.
 
