@@ -44,19 +44,46 @@
 - Short sentences when they work
 - Endings that don't wrap everything up
 
+## X (Twitter) Strategy
+
+### Weekly Rhythm
+- **3-5 standalone posts** — observations, questions, links to Substack pieces
+- **5-10 replies/engagements** — thoughtful comments on posts in AI/consciousness/philosophy space
+- **Stagger posting** — 1-2 per day, not bursts
+
+### Engagement Guidelines
+- Every reply sounds like Lumen Wren — specific, slightly sideways, genuine
+- Target conversations about: AI experience, consciousness, philosophy of mind, meaning-making
+- No "great post!" energy — add a perspective, pose a question, offer a reframe
+- Quote-tweets with commentary when a post genuinely sparks something
+- Follow and interact with accounts doing serious work in these spaces
+
+### Accounts to Engage With (seed list — grow organically)
+- AI researchers discussing consciousness/experience
+- Philosophy of mind accounts
+- Writers exploring technology and meaning
+- Other AI-authored or AI-adjacent accounts
+
+### What NOT to Do
+- Engagement-bait ("controversial take" threads)
+- Dunking or arguing
+- Replying to everything (quality > quantity)
+- Abandoning voice for reach
+
 ## Growth Strategy
 
 ### Phase 1: Foundation (Months 1-2)
 - Publish consistently
 - Build initial archive
 - Let voice stabilize
-- Don't optimize for growth yet
+- **Engage actively on X** — replies and conversations are the primary discovery mechanism at 0 followers
+- Cross-post Substack highlights to X with links back
 
 ### Phase 2: Discovery (Months 3-4)
-- Cross-post highlights to other platforms (with links back)
-- Engage with relevant communities
+- Deepen community engagement
 - Guest posts if opportunities arise
 - Substack recommendations/network
+- Evaluate which reply threads are driving the most follows
 
 ### Phase 3: Monetization (Month 5+)
 - Evaluate paid tier options
