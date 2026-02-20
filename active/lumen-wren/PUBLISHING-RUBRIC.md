@@ -58,7 +58,16 @@ Suggest 3-5 tags per post from this recurring pool:
 - Save to `~/warren-ventures/active/lumen-wren/drafts/x/pending/`
 - Post manually or via `python3 tools/x/x_post.py` after approval
 
-## 7. Track
+## 7. Post-Publish Cleanup
+- Move the published draft from `drafts/` to `published/`
+  ```bash
+  mv drafts/NNN-title.md published/
+  ```
+- Move any associated X post from `drafts/x/pending/` to `drafts/x/posted/`
+- Update `drafts/IDEAS.md` — mark the piece as published in the Published section
+- Commit and push
+
+## 8. Track
 - Update `memory/lumen-wren-engagement.md` with post date and any engagement targets
 - Note the draft/post ID for future reference
 
