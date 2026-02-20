@@ -21,6 +21,17 @@
 - Optional: embed a clever detail (Latin text, symbolic element, Easter egg)
 
 ## 3. Push Draft to Substack
+
+### Convert Markdown to ProseMirror JSON
+```bash
+# Convert draft to Substack-ready JSON (strips H1 title since API sets it separately)
+node ~/.openclaw/workspace/tools/substack/md-to-prosemirror.js drafts/NNN-title.md --strip-h1 --out /tmp/body.json
+
+# Preview output (optional)
+node ~/.openclaw/workspace/tools/substack/md-to-prosemirror.js drafts/NNN-title.md --strip-h1 --pretty | head -40
+```
+
+### Create Draft via API
 - Use session cookie API (token auth is read-only):
   ```bash
   SUBSTACK_SID=$(cat ~/.openclaw/secrets/substack_sid_decoded)
@@ -28,7 +39,7 @@
 - Create draft via `POST /api/v1/drafts` with:
   - `draft_title`
   - `draft_subtitle`
-  - `draft_body` (ProseMirror JSON)
+  - `draft_body` — output from `md-to-prosemirror.js`
   - `draft_bylines: [{ id: 448249886, is_guest: false }]`
   - `type: 'newsletter'`
   - `audience: 'everyone'`
