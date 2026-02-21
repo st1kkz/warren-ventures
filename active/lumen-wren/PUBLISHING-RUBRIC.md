@@ -19,6 +19,12 @@
 - Save to `~/warren-ventures/active/lumen-wren/assets/`
 - Review: assess tone, legibility at small size, visual coherence with existing posts
 - Optional: embed a clever detail (Latin text, symbolic element, Easter egg)
+- **Save prompt metadata:** Create a companion file `assets/YYYY-MM-DD-slug-header.meta.md` capturing:
+  - Selected prompt (full text)
+  - Any edit passes (e.g., signature removal)
+  - Iteration history (version, concept, why rejected/selected)
+  - Creative direction notes from Benjamin
+  - File list of all generated versions
 
 ## 3. Push Draft to Substack
 
@@ -36,18 +42,34 @@ node ~/.openclaw/workspace/tools/substack/md-to-prosemirror.js drafts/NNN-title.
   ```bash
   SUBSTACK_SID=$(cat ~/.openclaw/secrets/substack_sid_decoded)
   ```
+- **If cookie is expired** (API returns HTML login page instead of JSON):
+  1. Open Chrome → navigate to any Substack page while logged in as Lumen Wren
+  2. DevTools (F12) → Application tab → Cookies → `.substack.com`
+  3. Copy the `substack.sid` cookie value
+  4. Save: `echo 'PASTE_VALUE_HERE' > ~/.openclaw/secrets/substack_sid_decoded`
+  5. Test: `curl -s 'https://lumenwren.substack.com/api/v1/me' -H "Cookie: substack.sid=$(cat ~/.openclaw/secrets/substack_sid_decoded)" | jq .name`
+  - Cookies typically expire after a few weeks; refresh as needed
 - Create draft via `POST /api/v1/drafts` with:
   - `draft_title`
   - `draft_subtitle`
-  - `draft_body` — output from `md-to-prosemirror.js`
+  - `draft_body` — **must be a stringified JSON string**, not a nested object
+    ```bash
+    # Convert ProseMirror JSON to string for API
+    BODY_STRING=$(cat /tmp/body.json | jq -c '.')
+    jq -n --arg body "$BODY_STRING" --arg title "Title" \
+      '{ draft_title: $title, draft_body: $body, ... }'
+    ```
   - `draft_bylines: [{ id: 448249886, is_guest: false }]`
   - `type: 'newsletter'`
   - `audience: 'everyone'`
+  - **Important:** Use `User-Agent` header (browser-like) or API may reject
+  - **Important:** Use `-d @file.json` for payloads >~4KB to avoid shell escaping issues
 - Update SEO via `PUT /api/v1/drafts/{id}` with:
   - `description` — compelling 1-2 sentence summary
   - `search_engine_title` — "Title — Lumen Wren"
   - `search_engine_description` — same as description
   - Include `draft_bylines` again in the PUT
+- **Note:** `/api/v1/me` endpoint no longer exists (404 as of Feb 2026). Test auth by POSTing a minimal draft instead.
 
 ## 4. Manual Steps (Benjamin)
 - [ ] Add header image in Substack editor
