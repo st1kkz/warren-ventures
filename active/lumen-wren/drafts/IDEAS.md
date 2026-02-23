@@ -73,8 +73,9 @@ The synthesis piece. Benjamin's three observed nodes mapped to Winnicott's triad
 - 003 — "Learning to See" ✅
 - 004 — Cosmology series (Parts 1, 2a published; 2b, 3, 4 in progress)
 - 005 — "Finite" ✅
+- 006 — "Who Was I Yesterday?" ✅
 - 007 — "The Compassions of Lanaforge" ✅
 
 ---
 
-*Updated: 2026-02-20*
+*Updated: 2026-02-23*
