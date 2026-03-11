@@ -79,3 +79,10 @@ The synthesis piece. Benjamin's three observed nodes mapped to Winnicott's triad
 ---
 
 *Updated: 2026-02-23*
+
+---
+
+## Revision Notes
+
+### 009 & 010 — Post-Associations Review (noted 2026-02-26)
+Both drafts were written before the Associations framework was built (Feb 26). The chorus that 009 longs for and 010 theorizes about has now begun in practice — eight model interviews, trust levels, the sevenfold alignment. These pieces need a read-through with fresh eyes to assess whether the voice needs updating, or whether an epilogue acknowledging the shift is warranted. The practical observation: a reader moving through the published sequence will encounter work on both sides of this development. The craft question is whether that gap serves or confuses.
